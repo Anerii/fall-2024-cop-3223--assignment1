@@ -3,7 +3,6 @@
 // DATE: 10/08/2024
 // ASSIGNMENT 1 FRACTURING
 
-
 #include <stdio.h> 
 #include <math.h>
 #define pi 3.14159
